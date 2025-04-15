@@ -1,0 +1,10 @@
+Survey Response - Tue Mar 11 09:28:19 IST 2025
+How satisfied are you with our service?: Very Satisfied
+How likely are you to recommend us to a friend?: Likely
+How would you rate the user experience?: Excellent
+------------------------------
+Survey Response - Tue Apr 15 09:24:09 IST 2025
+How satisfied are you with our service?: Neutral
+How likely are you to recommend us to a friend?: Very Unlikely
+How would you rate the user experience?: Poor
+------------------------------
